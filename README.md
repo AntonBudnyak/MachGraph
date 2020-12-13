@@ -21,7 +21,7 @@ pip install tqdm
 ```
 2. Для запуска выполните команду:
 ```
-python ray_tracer.py
+python bin/ray_tracer.py
 ```
 Изображение будет сохранено в корневую директорию с именем 'image.png'
 
